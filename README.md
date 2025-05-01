@@ -12,8 +12,8 @@ device for testing.
 
 ## Project Focus
 
-- Build a working mobile application using 
-Python exclusively.
+- Build a working mobile application using
+  Python exclusively.
 
 ## Application Requirements
 
